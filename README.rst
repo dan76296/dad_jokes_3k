@@ -3,13 +3,13 @@ dad_joke_3k
 ===========
 
 
-Add a short description here!
+A dad joke generator made in Python using the Request module.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+A simple Python application that uses get requests to icanhazdadjokes.com
 
 
 Note
